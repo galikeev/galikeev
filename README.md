@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @galikeev
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript
 - 📫 Telegram @galikeev
