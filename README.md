@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @galikeev
 - 👀 I’m interested in tech, photo, traveling
-- 🌱 I’m currently learning JavaScript, React
 - 📫 Telegram @galikeev
